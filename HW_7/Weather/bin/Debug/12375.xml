@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+  <channel>
+    <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+    <link>http://www.gismeteo.ru</link>
+    <description>Текущая погода и точный прогноз погоды по всему миру</description>
+    <ttl>60</ttl>
+    <image>
+      <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+      <width>142</width>
+      <height>18</height>
+      <link>http://www.gismeteo.ru</link>
+      <url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+    </image>
+    <item>
+      <title>Варшава: День 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/3196/?761737</link>
+      <description>температура 25..27 С, давление 747..749 мм рт.ст., ветер Юго-Восточный, 5 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/12375.xml">GISMETEO.RU: Погода в г. Варшава</source>
+      <guid>447793</guid>
+    </item>
+    <item>
+      <title>Варшава: Вечер 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/3196/?670950</link>
+      <description>температура 20..22 С, давление 744..746 мм рт.ст., ветер Юго-Восточный, 5 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/12375.xml">GISMETEO.RU: Погода в г. Варшава</source>
+      <guid>343429</guid>
+    </item>
+    <item>
+      <title>Варшава: Ночь 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/3196/?235867</link>
+      <description>Малооблачно, температура 20..22 С, давление 744..746 мм рт.ст., ветер Юго-Западный, 6 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/12375.xml">GISMETEO.RU: Погода в г. Варшава</source>
+      <guid>851639</guid>
+    </item>
+    <item>
+      <title>Варшава: Утро 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/3196/?521266</link>
+      <description>Пасмурно, температура 12..14 С, давление 748..750 мм рт.ст., ветер Западный, 5 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c3.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/12375.xml">GISMETEO.RU: Погода в г. Варшава</source>
+      <guid>445903</guid>
+    </item>
+  </channel>
+</rss>

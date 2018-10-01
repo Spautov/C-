@@ -1,0 +1,8 @@
+c:\users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\bin\Debug\Weather.exe.config
+c:\users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\bin\Debug\Weather.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\bin\Debug\Weather.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+c:\users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\obj\Debug\Weather.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\obj\Debug\Weather.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\bin\Debug\ReadWeatherOfXML.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_7\Weather\bin\Debug\ReadWeatherOfXML.pdb

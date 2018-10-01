@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+  <channel>
+    <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+    <link>http://www.gismeteo.ru</link>
+    <description>Текущая погода и точный прогноз погоды по всему миру</description>
+    <ttl>60</ttl>
+    <image>
+      <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+      <width>142</width>
+      <height>18</height>
+      <link>http://www.gismeteo.ru</link>
+      <url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+    </image>
+    <item>
+      <title>Киев: День 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/4944/?352279</link>
+      <description>температура 25..27 С, давление 749..751 мм рт.ст., ветер Юго-Восточный, 2 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source>
+      <guid>525028</guid>
+    </item>
+    <item>
+      <title>Киев: Вечер 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/4944/?611551</link>
+      <description>температура 18..20 С, давление 748..750 мм рт.ст., ветер Юго-Восточный, 3 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source>
+      <guid>63779</guid>
+    </item>
+    <item>
+      <title>Киев: Ночь 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4944/?406526</link>
+      <description>температура 15..17 С, давление 748..750 мм рт.ст., ветер Юго-Восточный, 3 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source>
+      <guid>468330</guid>
+    </item>
+    <item>
+      <title>Киев: Утро 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4944/?757090</link>
+      <description>температура 17..19 С, давление 747..749 мм рт.ст., ветер Южный, 4 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source>
+      <guid>985042</guid>
+    </item>
+  </channel>
+</rss>

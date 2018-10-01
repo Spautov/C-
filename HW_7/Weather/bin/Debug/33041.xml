@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+  <channel>
+    <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+    <link>http://www.gismeteo.ru</link>
+    <description>Текущая погода и точный прогноз погоды по всему миру</description>
+    <ttl>60</ttl>
+    <image>
+      <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+      <width>142</width>
+      <height>18</height>
+      <link>http://www.gismeteo.ru</link>
+      <url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+    </image>
+    <item>
+      <title>Гомель: День 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/4918/?870604</link>
+      <description>температура 24..26 С, давление 751..753 мм рт.ст., ветер Южный, 3 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33041.xml">GISMETEO.RU: Погода в г. Гомель</source>
+      <guid>182154</guid>
+    </item>
+    <item>
+      <title>Гомель: Вечер 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/4918/?631839</link>
+      <description>Малооблачно, температура 17..19 С, давление 750..752 мм рт.ст., ветер Юго-Восточный, 3 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33041.xml">GISMETEO.RU: Погода в г. Гомель</source>
+      <guid>133020</guid>
+    </item>
+    <item>
+      <title>Гомель: Ночь 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4918/?408702</link>
+      <description>температура 15..17 С, давление 749..751 мм рт.ст., ветер Юго-Восточный, 4 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33041.xml">GISMETEO.RU: Погода в г. Гомель</source>
+      <guid>561295</guid>
+    </item>
+    <item>
+      <title>Гомель: Утро 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4918/?26718</link>
+      <description>температура 17..19 С, давление 748..750 мм рт.ст., ветер Юго-Восточный, 4 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/33041.xml">GISMETEO.RU: Погода в г. Гомель</source>
+      <guid>917213</guid>
+    </item>
+  </channel>
+</rss>

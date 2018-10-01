@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+  <channel>
+    <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+    <link>http://www.gismeteo.ru</link>
+    <description>Текущая погода и точный прогноз погоды по всему миру</description>
+    <ttl>60</ttl>
+    <image>
+      <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+      <width>142</width>
+      <height>18</height>
+      <link>http://www.gismeteo.ru</link>
+      <url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+    </image>
+    <item>
+      <title>Тбилиси: День 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/5277/?643592</link>
+      <description>температура 25..27 С, давление 723..725 мм рт.ст., ветер Юго-Восточный, 2 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/37549.xml">GISMETEO.RU: Погода в г. Тбилиси</source>
+      <guid>522117</guid>
+    </item>
+    <item>
+      <title>Тбилиси: Вечер 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/5277/?900042</link>
+      <description>температура 19..21 С, давление 724..726 мм рт.ст., ветер Юго-Восточный, 1 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/37549.xml">GISMETEO.RU: Погода в г. Тбилиси</source>
+      <guid>231892</guid>
+    </item>
+    <item>
+      <title>Тбилиси: Ночь 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/5277/?608828</link>
+      <description>температура 17..19 С, давление 725..727 мм рт.ст., ветер Северный, 0 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/37549.xml">GISMETEO.RU: Погода в г. Тбилиси</source>
+      <guid>415614</guid>
+    </item>
+    <item>
+      <title>Тбилиси: Утро 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/5277/?273219</link>
+      <description>температура 21..23 С, давление 726..728 мм рт.ст., ветер Юго-Восточный, 2 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/37549.xml">GISMETEO.RU: Погода в г. Тбилиси</source>
+      <guid>530938</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+  <channel>
+    <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+    <link>http://www.gismeteo.ru</link>
+    <description>Текущая погода и точный прогноз погоды по всему миру</description>
+    <ttl>60</ttl>
+    <image>
+      <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+      <width>142</width>
+      <height>18</height>
+      <link>http://www.gismeteo.ru</link>
+      <url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+    </image>
+    <item>
+      <title>Ашхабад: День 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/5366/?208217</link>
+      <description>температура 26..28 С, давление 744..746 мм рт.ст., ветер Северо-Восточный, 1 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/38880.xml">GISMETEO.RU: Погода в г. Ашхабад</source>
+      <guid>379158</guid>
+    </item>
+    <item>
+      <title>Ашхабад: Вечер 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/5366/?715784</link>
+      <description>температура 22..24 С, давление 743..745 мм рт.ст., ветер Восточный, 1 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/38880.xml">GISMETEO.RU: Погода в г. Ашхабад</source>
+      <guid>602417</guid>
+    </item>
+    <item>
+      <title>Ашхабад: Ночь 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/5366/?90814</link>
+      <description>температура 18..20 С, давление 743..745 мм рт.ст., ветер Западный, 1 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/38880.xml">GISMETEO.RU: Погода в г. Ашхабад</source>
+      <guid>992800</guid>
+    </item>
+    <item>
+      <title>Ашхабад: Утро 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/5366/?533118</link>
+      <description>температура 18..20 С, давление 744..746 мм рт.ст., ветер Юго-Восточный, 0 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/38880.xml">GISMETEO.RU: Погода в г. Ашхабад</source>
+      <guid>743647</guid>
+    </item>
+  </channel>
+</rss>

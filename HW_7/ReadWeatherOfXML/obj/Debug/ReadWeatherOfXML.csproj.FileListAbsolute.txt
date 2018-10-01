@@ -1,0 +1,5 @@
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_7\ReadWeatherOfXML\bin\Debug\ReadWeatherOfXML.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_7\ReadWeatherOfXML\bin\Debug\ReadWeatherOfXML.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_7\ReadWeatherOfXML\obj\Debug\ReadWeatherOfXML.csprojResolveAssemblyReference.cache
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_7\ReadWeatherOfXML\obj\Debug\ReadWeatherOfXML.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_7\ReadWeatherOfXML\obj\Debug\ReadWeatherOfXML.pdb

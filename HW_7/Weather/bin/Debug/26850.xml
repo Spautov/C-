@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+  <channel>
+    <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+    <link>http://www.gismeteo.ru</link>
+    <description>Текущая погода и точный прогноз погоды по всему миру</description>
+    <ttl>60</ttl>
+    <image>
+      <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+      <width>142</width>
+      <height>18</height>
+      <link>http://www.gismeteo.ru</link>
+      <url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+    </image>
+    <item>
+      <title>Минск: День 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?421715</link>
+      <description>температура 24..26 С, давление 743..745 мм рт.ст., ветер Южный, 5 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>205972</guid>
+    </item>
+    <item>
+      <title>Минск: Вечер 21 Sep, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?950351</link>
+      <description>температура 18..20 С, давление 741..743 мм рт.ст., ветер Юго-Восточный, 4 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>330241</guid>
+    </item>
+    <item>
+      <title>Минск: Ночь 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?832788</link>
+      <description>температура 16..18 С, давление 739..741 мм рт.ст., ветер Юго-Восточный, 5 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>211831</guid>
+    </item>
+    <item>
+      <title>Минск: Утро 22 Sep, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?808779</link>
+      <description>температура 17..19 С, давление 737..739 мм рт.ст., ветер Южный, 5 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>174108</guid>
+    </item>
+  </channel>
+</rss>
