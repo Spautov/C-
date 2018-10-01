@@ -1,0 +1,8 @@
+c:\users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\bin\Debug\GameCarRacing.exe.config
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\bin\Debug\GameCarRacing.exe
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\bin\Debug\GameCarRacing.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\bin\Debug\Cars.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\bin\Debug\Cars.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\obj\Debug\GameCarRacing.csprojResolveAssemblyReference.cache
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\obj\Debug\GameCarRacing.exe
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\GameCarRacing\obj\Debug\GameCarRacing.pdb

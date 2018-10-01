@@ -1,0 +1,4 @@
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\Cars\bin\Debug\Cars.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\Cars\bin\Debug\Cars.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\Cars\obj\Debug\Cars.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_5\Cars\obj\Debug\Cars.pdb
