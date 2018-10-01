@@ -1,0 +1,10 @@
+D:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_6\GemeDev\bin\Debug\GemeDev.dll
+D:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_6\GemeDev\bin\Debug\GemeDev.pdb
+D:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_6\GemeDev\obj\Debug\GemeDev.csprojResolveAssemblyReference.cache
+D:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_6\GemeDev\obj\Debug\GemeDev.csproj.CoreCompileInputs.cache
+D:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_6\GemeDev\obj\Debug\GemeDev.dll
+D:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_6\GemeDev\obj\Debug\GemeDev.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_6\GemeDev\bin\Debug\GemeDev.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_6\GemeDev\bin\Debug\GemeDev.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_6\GemeDev\obj\Debug\GemeDev.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_6\GemeDev\obj\Debug\GemeDev.pdb
