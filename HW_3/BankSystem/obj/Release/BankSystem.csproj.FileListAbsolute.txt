@@ -1,0 +1,6 @@
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_3\BankSystem\bin\Release\BankSystem.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_3\BankSystem\bin\Release\BankSystem.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_3\BankSystem\obj\Release\BankSystem.csprojResolveAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_3\BankSystem\obj\Release\BankSystem.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_3\BankSystem\obj\Release\BankSystem.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_3\BankSystem\obj\Release\BankSystem.pdb
