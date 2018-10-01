@@ -1,0 +1,5 @@
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\BuildingPart\bin\Debug\BuildingPart.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\BuildingPart\bin\Debug\BuildingPart.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\BuildingPart\obj\Debug\BuildingPart.csprojResolveAssemblyReference.cache
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\BuildingPart\obj\Debug\BuildingPart.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\BuildingPart\obj\Debug\BuildingPart.pdb

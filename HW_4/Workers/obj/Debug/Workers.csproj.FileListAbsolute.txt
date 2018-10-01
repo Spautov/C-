@@ -1,0 +1,7 @@
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\Workers\bin\Debug\Workers.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\Workers\bin\Debug\Workers.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\Workers\bin\Debug\BuildingPart.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\Workers\bin\Debug\BuildingPart.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\Workers\obj\Debug\Workers.csprojResolveAssemblyReference.cache
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\Workers\obj\Debug\Workers.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\Workers\obj\Debug\Workers.pdb

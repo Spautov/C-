@@ -1,0 +1,10 @@
+c:\users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\bin\Debug\ConstructionHouse.exe.config
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\bin\Debug\ConstructionHouse.exe
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\bin\Debug\ConstructionHouse.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\bin\Debug\BuildingPart.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\bin\Debug\Workers.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\bin\Debug\BuildingPart.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\bin\Debug\Workers.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\obj\Debug\ConstructionHouse.csprojResolveAssemblyReference.cache
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\obj\Debug\ConstructionHouse.exe
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_4\ConstructionHouse\obj\Debug\ConstructionHouse.pdb
