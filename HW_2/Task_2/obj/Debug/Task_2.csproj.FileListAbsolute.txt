@@ -1,0 +1,7 @@
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_2\bin\Debug\Task_2.exe.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_2\bin\Debug\Task_2.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_2\bin\Debug\Task_2.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_2\obj\Debug\Task_2.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_2\obj\Debug\Task_2.pdb

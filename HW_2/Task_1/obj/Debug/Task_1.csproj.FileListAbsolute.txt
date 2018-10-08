@@ -1,0 +1,13 @@
+c:\users\pautov\documents\visual studio 2015\Projects\HW_2\Task_1\bin\Debug\Task_1.exe.config
+c:\users\pautov\documents\visual studio 2015\Projects\HW_2\Task_1\bin\Debug\Task_1.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_2\Task_1\bin\Debug\Task_1.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\HW_2\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+c:\users\pautov\documents\visual studio 2015\Projects\HW_2\Task_1\obj\Debug\Task_1.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_2\Task_1\obj\Debug\Task_1.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_1\bin\Debug\Task_1.exe.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_1\bin\Debug\Task_1.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_1\bin\Debug\Task_1.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_1\obj\Debug\Task_1.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_2\Task_1\obj\Debug\Task_1.pdb
