@@ -1,0 +1,9 @@
+D:\Books\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Books\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Books\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\Books\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Books\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Books\ConsoleApp4\ConsoleApp4\obj\Debug\HW_ADO_1.csprojResolveAssemblyReference.cache
+D:\Books\HW_ADO_1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Books\HW_ADO_1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Books\HW_ADO_1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
