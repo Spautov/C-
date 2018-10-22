@@ -1,0 +1,9 @@
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\bin\Debug\BestOil.exe.config
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\bin\Debug\BestOil.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\bin\Debug\BestOil.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\obj\Debug\BestOil.csproj.GenerateResource.Cache
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\obj\Debug\BestOil.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\obj\Debug\BestOil.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\obj\Debug\BestOil.AZSForm.resources
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WF_1\BestOil\obj\Debug\BestOil.csprojResolveAssemblyReference.cache
