@@ -1,0 +1,19 @@
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\bin\Debug\MobileStore.exe.config
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\bin\Debug\MobileStore.exe
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\bin\Debug\MobileStore.pdb
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\obj\Debug\MobileStore.MainForm.resources
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.cache
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\obj\Debug\MobileStore.csproj.CoreCompileInputs.cache
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\obj\Debug\MobileStore.exe
+C:\Users\Sergey Pautov\source\repos\HW_WF_2\MobileStore\obj\Debug\MobileStore.pdb
+D:\Books\HW_WF_2\MobileStore\bin\Debug\MobileStore.exe.config
+D:\Books\HW_WF_2\MobileStore\obj\Debug\MobileStore.exe
+D:\Books\HW_WF_2\MobileStore\obj\Debug\MobileStore.pdb
+D:\Books\HW_WF_2\MobileStore\bin\Debug\MobileStore.exe
+D:\Books\HW_WF_2\MobileStore\bin\Debug\MobileStore.pdb
+D:\Books\HW_WF_2\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+D:\Books\HW_WF_2\MobileStore\obj\Debug\MobileStore.MainForm.resources
+D:\Books\HW_WF_2\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+D:\Books\HW_WF_2\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
