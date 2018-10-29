@@ -8,37 +8,39 @@ using System.Text;
 using MobileStore.Entities;
 using System.Windows.Forms;
 
+
 namespace MobileStore
 {
     public partial class MainForm : Form
     {
-        private PhoneRepository _phoneRepository;
-        private OptionsRepository _optionsRepository;
-
+        
+        private Repository<Phone> _phoneRepository;
+        private Repository<String> _optionsRepository;
+       
         public MainForm()
         {
-            _phoneRepository = new PhoneRepository();
-            _optionsRepository = new OptionsRepository();
+            _phoneRepository = new Repository<Phone>("phone.dat");
+            _optionsRepository = new Repository<String>("phoneOptions.dat");
             InitializeComponent();
         }
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            lstListOfPhones.DataSource = _phoneRepository.GetPhoneInfo();
+            lstListOfPhones.DataSource = _phoneRepository.GetInfo();
             
         }
 
         private void btnSaveFile_Click(object sender, EventArgs e)
         {
             BindingList<Phone> lstPhone = (BindingList<Phone>)lstListOfPhones.DataSource;
-            _phoneRepository.SavePhone(lstPhone);
+            _phoneRepository.Save(lstPhone);
             BindingList<string> lstOptions = (BindingList<string>) lstOptionsEdit.DataSource;
-            _optionsRepository.SaveOptions(lstOptions);
+            _optionsRepository.Save(lstOptions);
         }
 
         private void btnLoadFile_Click(object sender, EventArgs e)
         {
-            lstListOfPhones.DataSource = _phoneRepository.GetPhoneInfo();
+            lstListOfPhones.DataSource = _phoneRepository.GetInfo();
         }
 
         private void btnDeleteRecord_Click(object sender, EventArgs e)
@@ -60,63 +62,90 @@ namespace MobileStore
         private void lstListOfPhones_SelectedIndexChanged(object sender, EventArgs e)
         {
             BindingList<Phone> lstPhone = (BindingList<Phone>)lstListOfPhones.DataSource;
+           
             Phone tmpPhone = (Phone)lstListOfPhones.SelectedItem;
-            tbModelPhoneEdit.Text = tbModelPhoneInfo.Text = tmpPhone.Model;
-            tbOsPhoneEdit.Text = tbOsPhoneEdit.Text = tbOsPhoneInfo.Text = tmpPhone.Os;
-            tbCPUPhoneEdit.Text = tbCPUPhoneInfo.Text = tmpPhone.CPU;
-            tbPricePhoneEdit.Text = tbPricePhoneInfo.Text = String.Format("{0:N2}", tmpPhone.Price);
-            if(String.IsNullOrEmpty(tmpPhone.ImagePath)|| String.IsNullOrWhiteSpace(tmpPhone.ImagePath))
+            if (tmpPhone != null)
             {
-                tmpPhone.ImagePath = @"nophoto.jpeg";
-                
-            }
-            if (tmpPhone.ImagePath.Equals("nophoto.jpeg"))
-            {
-                tbImagePhoneEdit.Text = "";
+                tbModelPhoneEdit.Text = tbModelPhoneInfo.Text = tmpPhone.Model;
+                tbOsPhoneEdit.Text = tbOsPhoneInfo.Text = tmpPhone.Os;
+                tbCPUPhoneEdit.Text = tbCPUPhoneInfo.Text = tmpPhone.CPU;
+                tbPricePhoneEdit.Text = tbPricePhoneInfo.Text = String.Format("{0:N2}", tmpPhone.Price);
+                if (String.IsNullOrEmpty(tmpPhone.ImagePath) || String.IsNullOrWhiteSpace(tmpPhone.ImagePath))
+                {
+                    tmpPhone.ImagePath = @"nophoto.jpeg";
+
+                }
+                if (tmpPhone.ImagePath.Equals("nophoto.jpeg"))
+                {
+                    tbImagePhoneEdit.Text = "";
+                }
+                else
+                {
+                    tbImagePhoneEdit.Text = tmpPhone.ImagePath;
+                }
+                pctImagePhoneInfo.ImageLocation = tmpPhone.ImagePath;
+
+                lstOptionsEdit.DataSource = _optionsRepository.GetInfo();
+                lstOtionsInfo.DataSource = tmpPhone.Options;
+                BindingList<string> lstOptionsEd = (BindingList<string>)lstOptionsEdit.DataSource;
+                BindingList<string> lstOptionsInf = (BindingList<string>)lstOtionsInfo.DataSource;
+                for (int i = 0; i < lstOptionsEd.Count; i++)
+                {
+                    lstOptionsEdit.SetItemChecked(i, false);
+                }
+                foreach (string item in lstOptionsInf)
+                {
+                    int Ind = lstOptionsEd.IndexOf(item);
+                    if (Ind == -1)
+                    {
+                        lstOptionsEd.Add(item);
+                    }
+                }
+                foreach (string item in lstOptionsInf)
+                {
+                    int Ind = lstOptionsEd.IndexOf(item);
+                    if (Ind > -1)
+                    {
+                        lstOptionsEdit.SetItemChecked(Ind, true);
+                    }
+                }
             }
             else
             {
-                tbImagePhoneEdit.Text = tmpPhone.ImagePath;
+                tbModelPhoneInfo.Text = "";
+                tbOsPhoneInfo.Text = "";
+                tbCPUPhoneInfo.Text = "";
+                tbPricePhoneInfo.Text = "";
+                pctImagePhoneInfo.ImageLocation = "nophoto.jpeg";
             }
-            pctImagePhoneInfo.ImageLocation = tmpPhone.ImagePath;
             
-            lstOptionsEdit.DataSource = _optionsRepository.GetOptionsInfo();
-            lstOtionsInfo.DataSource = tmpPhone.Options;
-            BindingList<string> lstOptionsEd = (BindingList<string>)lstOptionsEdit.DataSource;
-            BindingList<string> lstOptionsInf = (BindingList<string>)lstOtionsInfo.DataSource;
-            for (int i = 0; i < lstOptionsEd.Count; i++)
-            {
-                lstOptionsEdit.SetItemChecked(i, false);
-            }
-            foreach (string item in lstOptionsInf)
-            {
-                int Ind = lstOptionsEd.IndexOf(item);
-                if (Ind == -1)
-                {
-                    lstOptionsEd.Add(item);
-                }
-            }
-            foreach (string item in lstOptionsInf)
-            {
-                int Ind = lstOptionsEd.IndexOf(item);
-                if (Ind > -1)
-                {
-                   lstOptionsEdit.SetItemChecked(Ind, true);
-                }
-            }
-
         }
 
         private void btnAddNewPhoneEdit_Click(object sender, EventArgs e)
         {
-            Phone newPhone = new Phone();
-            newPhone.CPU = tbCPUPhoneEdit.Text;
-            newPhone.Model = tbModelPhoneEdit.Text;
-            newPhone.Os = tbOsPhoneEdit.Text;
-            newPhone.ImagePath = tbImagePhoneEdit.Text;
-            newPhone.Price = Double.Parse(tbPricePhoneEdit.Text);
-            BindingList<Phone> lstPhone = (BindingList<Phone>)lstListOfPhones.DataSource;
-            lstPhone.Add(newPhone);
+            if (!String.IsNullOrEmpty(tbModelPhoneEdit.Text)&& !String.IsNullOrWhiteSpace(tbModelPhoneEdit.Text))
+            {
+                Phone newPhone = new Phone();
+                newPhone.CPU = tbCPUPhoneEdit.Text;
+                newPhone.Model = tbModelPhoneEdit.Text;
+                newPhone.Os = tbOsPhoneEdit.Text;
+                newPhone.ImagePath = tbImagePhoneEdit.Text;
+                if (!String.IsNullOrEmpty(tbPricePhoneEdit.Text) && !String.IsNullOrWhiteSpace(tbPricePhoneEdit.Text))
+                {
+                    newPhone.Price = Double.Parse(tbPricePhoneEdit.Text);
+                }
+                else
+                {
+                    newPhone.Price = 0.0;
+                }
+                BindingList<Phone> lstPhone = (BindingList<Phone>)lstListOfPhones.DataSource;
+                lstPhone.Add(newPhone);
+            }
+            else
+            {
+                MessageBox.Show("Поле \"Модель\" телефона должно быть заполнено", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+           
         }
 
         private void btnClearEdit_Click(object sender, EventArgs e)
@@ -144,7 +173,7 @@ namespace MobileStore
                 tmpPhone.Options.Add(item);
             }
             
-            _phoneRepository.SavePhone(lstPhone);
+            _phoneRepository.Save(lstPhone);
             lstPhone.ResetBindings();
 
         }
