@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization", "Authorization\Authorization.csproj", "{49F18080-8AA7-494F-9D3A-0B4E0A893A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersDAL", "UsersDAL\UsersDAL.csproj", "{8F61AED2-5542-482F-ADCB-2417D22E16BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F18080-8AA7-494F-9D3A-0B4E0A893A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F18080-8AA7-494F-9D3A-0B4E0A893A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F18080-8AA7-494F-9D3A-0B4E0A893A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F18080-8AA7-494F-9D3A-0B4E0A893A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F61AED2-5542-482F-ADCB-2417D22E16BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F61AED2-5542-482F-ADCB-2417D22E16BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F61AED2-5542-482F-ADCB-2417D22E16BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F61AED2-5542-482F-ADCB-2417D22E16BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0F6B3F-CAA3-449D-A91B-0C43B8C450F5}
+	EndGlobalSection
+EndGlobal
