@@ -1,0 +1,72 @@
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\MapPointsCurrencyExchange.exe.config
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\MapPointsCurrencyExchange.exe
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\MapPointsCurrencyExchange.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\GMap.NET.Core.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\GMap.NET.WindowsPresentation.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\Newtonsoft.Json.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.xml
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\Newtonsoft.Json.xml
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.xml
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.csprojResolveAssemblyReference.cache
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.Properties.Resources.resources
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.csproj.GenerateResource.Cache
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.exe
+c:\users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\CurrencyExchangeDAL.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\CurrencyExchangeDAL.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.MainForm.resources
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithMap.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithMap.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithXML.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithXML.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\MapPointsCurrencyExchange.exe.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\MapPointsCurrencyExchange.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\MapPointsCurrencyExchange.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\CurrencyExchangeDAL.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.SqlServer.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\GMap.NET.Core.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\GMap.NET.WindowsForms.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\GMap.NET.WindowsPresentation.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\Newtonsoft.Json.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.EF6.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.Linq.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithMap.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithXML.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\CurrencyExchangeDAL.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithMap.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithMap.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithXML.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\EntityFramework.SqlServer.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\Newtonsoft.Json.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\System.Data.SQLite.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.csprojAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.Forms.PointsCurrencyInfoForm.resources
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.MainForm.resources
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.Properties.Resources.resources
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.csproj.GenerateResource.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.csproj.CopyComplete
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.Forms.PointsCurrencyInfoForm.resources
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\DBWorker.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\DBWorker.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\DBWorker.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\WorkWithXML.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\Newtonsoft.Json.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.exe.config
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\obj\Debug\MapPointsCurrencyExchange.csproj.MapPointsCurrencyExchange.exe.config
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\DBWorker.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\DBWorker.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\MapPointsCurrencyExchange\bin\Debug\Newtonsoft.Json.pdb
