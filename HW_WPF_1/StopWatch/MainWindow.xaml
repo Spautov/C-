@@ -1,0 +1,55 @@
+﻿<Window x:Class="StopWatch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StopWatch"
+        mc:Ignorable="d"
+        Title="Секундомер" Height="450" Width="600"
+        MinHeight="450"
+        MinWidth="600"
+        FontSize="15" StateChanged="Window_StateChanged">
+
+    <DockPanel LastChildFill="True">
+        <DockPanel.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Wheat" Offset="0"/>
+                <GradientStop Color="Yellow" Offset="1"/>
+            </LinearGradientBrush>
+        </DockPanel.Background>
+        <Menu x:Name="mnuMain" 
+            DockPanel.Dock="Top" FontSize="14">
+            <MenuItem Header="Режимы таймера">
+                <MenuItem x:Name="mnuItemStart" Header="Запуск" Click="btnStart_Click"/>
+                <MenuItem x:Name="mnuItemStop" IsEnabled="False" Header="Стоп" Click="btnStop_Click"/>
+                <MenuItem x:Name="mnuItemRound" IsEnabled="False" Header="Круг" Click="btnRound_Click"/>
+                <MenuItem x:Name="mnuItemRefresh" IsEnabled="False" Header="Сброс" Click="btnRefresh_Click" />
+            </MenuItem>
+            <MenuItem x:Name="mnuItemHelp"
+                Header="Справка" Click="mnuItemHelp_Click">
+
+            </MenuItem>
+        </Menu>
+        <TextBlock  x:Name="tblStopWatch"
+                    Padding="10,0" Margin="0,10,0,0" 
+                    HorizontalAlignment="Center" 
+                    DockPanel.Dock="Top"
+                    FontSize="32"  
+                    Background="LightYellow"></TextBlock>
+
+        <Label x:Name="lbState" Margin="0,10,0,0" DockPanel.Dock="Bottom">Состояние: Стоп</Label>
+        <UniformGrid Rows="1" Columns="4"  HorizontalAlignment ="Center" DockPanel.Dock="Bottom">
+            <Button x:Name="btnStart" Background="White" Margin="10,0" Padding="38,0" Click="btnStart_Click">Запуск</Button>
+            <Button x:Name="btnStop"  IsEnabled="False" Background="White" Margin="10,0" Click="btnStop_Click">Стоп</Button>
+            <Button x:Name="btnRound" IsEnabled="False" Background="White" Margin="10,0" Click="btnRound_Click">Круг</Button>
+            <Button x:Name="btnRefresh" IsEnabled="False" Background="White" Margin="10,0" Click="btnRefresh_Click">Сбросить</Button>
+        </UniformGrid>
+
+        <TextBox x:Name="tbTablo" 
+                     Background="PaleTurquoise" 
+                     Margin="20" 
+                     ScrollViewer.VerticalScrollBarVisibility="Auto">
+        </TextBox>
+
+    </DockPanel>
+</Window>

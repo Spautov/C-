@@ -1,0 +1,29 @@
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\MainWindow.g.cs
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\App.g.cs
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch_MarkupCompile.cache
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch_MarkupCompile.lref
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\MainWindow.baml
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch.g.resources
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\Sergey Pautov\Source\Repos\HW_WPF_1\StopWatch\obj\Debug\StopWatch.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\MainWindow.g.cs
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\App.g.cs
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch_MarkupCompile.cache
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch_MarkupCompile.lref
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\MainWindow.baml
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch.g.resources
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_1\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.Cache
