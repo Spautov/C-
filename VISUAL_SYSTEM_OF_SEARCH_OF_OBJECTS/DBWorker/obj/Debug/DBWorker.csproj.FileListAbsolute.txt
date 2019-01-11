@@ -1,0 +1,31 @@
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\DBWorker.dll.config
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\DBWorker.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\DBWorker.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\CurrencyExchangeDAL.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\CurrencyExchangeDAL.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.csprojResolveAssemblyReference.cache
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\DBWorker.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\DBWorker.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\DBWorker.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\CurrencyExchangeDAL.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.SqlServer.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\WorkWithXML.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\CurrencyExchangeDAL.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\WorkWithXML.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\EntityFramework.SqlServer.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.csprojAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.csproj.CopyComplete
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\obj\Debug\DBWorker.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\WorkWithXML.dll.config
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\WorkWithXML.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\DBWorker\bin\Debug\WorkWithXML.pdb

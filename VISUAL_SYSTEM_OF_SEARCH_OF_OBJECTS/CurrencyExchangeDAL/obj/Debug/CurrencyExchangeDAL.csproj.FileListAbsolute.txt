@@ -1,0 +1,10 @@
+C:\Users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\bin\Debug\CurrencyExchangeDAL.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\bin\Debug\CurrencyExchangeDAL.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\obj\Debug\CurrencyExchangeDAL.dll
+C:\Users\pautov\documents\visual studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\obj\Debug\CurrencyExchangeDAL.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\bin\Debug\CurrencyExchangeDAL.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\bin\Debug\CurrencyExchangeDAL.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\obj\Debug\CurrencyExchangeDAL.csprojAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\obj\Debug\CurrencyExchangeDAL.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\obj\Debug\CurrencyExchangeDAL.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\CurrencyExchangeDAL\obj\Debug\CurrencyExchangeDAL.pdb
