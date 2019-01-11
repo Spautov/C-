@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4E0D15C-550E-419C-B008-2C0415AA0647}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MapPointsCurrencyExchange</RootNamespace>
+    <AssemblyName>MapPointsCurrencyExchange</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconfinder_Untitled-5-84_3761821.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.9.1.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.Windows.1.9.1.2\lib\net40\GMap.NET.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.9.1.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.Windows.1.9.1.2\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsPresentation, Version=1.9.1.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.Windows.1.9.1.2\lib\net40\GMap.NET.WindowsPresentation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.109.2\lib\net451\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.109.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.109.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\PointsCurrencyInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PointsCurrencyInfoForm.Designer.cs">
+      <DependentUpon>PointsCurrencyInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GMapMarkerImage.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\PointsCurrencyInfoForm.resx">
+      <DependentUpon>PointsCurrencyInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="banks.xml" />
+    <None Include="Resources\001-info.png" />
+    <None Include="Resources\002-caution.png" />
+    <None Include="Resources\003-temperature.png" />
+    <None Include="Resources\004-bookmarks.png" />
+    <None Include="Resources\005-direction.png" />
+    <None Include="Resources\006-silent.png" />
+    <None Include="Resources\007-share.png" />
+    <None Include="Resources\008-shuffle.png" />
+    <None Include="Resources\009-attach.png" />
+    <None Include="Resources\010-shop.png" />
+    <None Include="Resources\011-trash.png" />
+    <None Include="Resources\012-refresh.png" />
+    <None Include="Resources\013-linked.png" />
+    <None Include="Resources\014-camera.png" />
+    <None Include="Resources\015-maps.png" />
+    <None Include="Resources\016-unlocked.png" />
+    <None Include="Resources\017-locked.png" />
+    <None Include="Resources\018-power.png" />
+    <None Include="Resources\019-loading.png" />
+    <None Include="Resources\020-recorder.png" />
+    <None Include="Resources\021-browser.png" />
+    <None Include="Resources\022-sound.png" />
+    <None Include="Resources\023-gallery.png" />
+    <None Include="Resources\024-video.png" />
+    <None Include="Resources\025-music.png" />
+    <None Include="Resources\026-health.png" />
+    <None Include="Resources\027-weather.png" />
+    <None Include="Resources\028-download.png" />
+    <None Include="Resources\029-hang-up.png" />
+    <None Include="Resources\030-call.png" />
+    <None Include="Resources\031-calculator.png" />
+    <None Include="Resources\032-news.png" />
+    <None Include="Resources\033-stopwatch.png" />
+    <None Include="Resources\034-favourites.png" />
+    <None Include="Resources\035-save.png" />
+    <None Include="Resources\036-edit.png" />
+    <None Include="Resources\037-clock.png" />
+    <None Include="Resources\038-games.png" />
+    <None Include="Resources\039-search.png" />
+    <None Include="Resources\040-compass.png" />
+    <None Include="Resources\041-contact.png" />
+    <None Include="Resources\042-folder.png" />
+    <None Include="Resources\043-settings.png" />
+    <None Include="Resources\044-memo.png" />
+    <None Include="Resources\045-switch.png" />
+    <None Include="Resources\046-email.png" />
+    <None Include="Resources\047-message.png" />
+    <None Include="Resources\048-notification.png" />
+    <None Include="Resources\049-notes.png" />
+    <None Include="Resources\050-calendar.png" />
+    <None Include="Resources\001-line-chart.png" />
+    <None Include="Resources\002-clipboard.png" />
+    <None Include="Resources\003-calendar.png" />
+    <None Include="Resources\004-strategy.png" />
+    <None Include="Resources\005-shield.png" />
+    <None Include="Resources\006-bar-chart.png" />
+    <None Include="Resources\007-savings.png" />
+    <None Include="Resources\008-coin.png" />
+    <None Include="Resources\009-currency.png" />
+    <None Include="Resources\010-certificate.png" />
+    <None Include="Resources\011-teamwork.png" />
+    <None Include="Resources\012-coin-1.png" />
+    <None Include="Resources\013-idea.png" />
+    <None Include="Resources\014-analytics.png" />
+    <None Include="Resources\015-line-chart-1.png" />
+    <None Include="Resources\016-open-padlock.png" />
+    <None Include="Resources\017-search.png" />
+    <None Include="Resources\018-link.png" />
+    <None Include="Resources\019-digital-marketing.png" />
+    <None Include="Resources\020-seo-tag.png" />
+    <None Include="Resources\021-ads.png" />
+    <None Include="Resources\022-id-card.png" />
+    <None Include="Resources\023-pie-chart.png" />
+    <None Include="Resources\024-growth.png" />
+    <None Include="Resources\025-usability.png" />
+    <None Include="Resources\026-shopping-bag.png" />
+    <None Include="Resources\027-vision.png" />
+    <None Include="Resources\028-reputation.png" />
+    <None Include="Resources\029-settings.png" />
+    <None Include="Resources\030-briefcase.png" />
+    <None Include="Resources\031-chat.png" />
+    <None Include="Resources\032-medal.png" />
+    <None Include="Resources\033-goal.png" />
+    <None Include="Resources\034-folder.png" />
+    <None Include="Resources\035-feedback.png" />
+    <None Include="Resources\036-tax.png" />
+    <None Include="Resources\037-shopping-basket.png" />
+    <None Include="Resources\038-teamwork-1.png" />
+    <None Include="Resources\039-pin.png" />
+    <None Include="Resources\040-calendar-1.png" />
+    <None Include="Resources\041-profits.png" />
+    <None Include="Resources\042-money-bag.png" />
+    <None Include="Resources\043-profits-1.png" />
+    <None Include="Resources\044-compass.png" />
+    <None Include="Resources\045-presentation.png" />
+    <None Include="Resources\046-goal-1.png" />
+    <None Include="Resources\047-megaphone.png" />
+    <None Include="Resources\048-planet-earth.png" />
+    <None Include="Resources\049-target.png" />
+    <None Include="Resources\050-balance.png" />
+    <None Include="Resources\add-folder.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\folder.png" />
+    <None Include="Resources\phone.png" />
+    <None Include="Resources\cellphone.png" />
+    <Content Include="Data\banks.xml" />
+    <Content Include="Data\IdBanks.xml" />
+    <Content Include="iconfinder_Untitled-5-84_3761821.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CurrencyExchangeDAL\CurrencyExchangeDAL.csproj">
+      <Project>{18343928-06f6-407c-bfca-07e0b99522b8}</Project>
+      <Name>CurrencyExchangeDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBWorker\DBWorker.csproj">
+      <Project>{d2cc3106-dcf6-4809-a472-0cd8fc282838}</Project>
+      <Name>DBWorker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorkWithMap\WorkWithMap.csproj">
+      <Project>{3c411fbc-4c89-4945-ac52-91293ce1f2ee}</Project>
+      <Name>WorkWithMap</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorkWithXML\WorkWithXML.csproj">
+      <Project>{8fd1b14d-5d2d-4da8-9965-f657a778ed18}</Project>
+      <Name>WorkWithXML</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.109.2\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.109.2\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.109.2\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.109.2\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
