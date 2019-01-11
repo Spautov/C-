@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<basnks>
+  <bank>
+    <id>1</id>
+    <name>Абсолютбанк</name>
+  </bank>
+  <bank>
+    <id>2</id>
+    <name>Альфа-Банк</name>
+  </bank>
+  <bank>
+    <id>3</id>
+    <name>ВТБ Беларусь</name>
+  </bank>
+  <bank>
+    <id>4</id>
+    <name>БелАгроПромБанк</name>
+  </bank>
+  <bank>
+    <id>5</id>
+    <name>БелГазпромБанк</name>
+  </bank>
+  <bank>
+    <id>6</id>
+    <name>БелИнвестБанк</name>
+  </bank>
+  <bank>
+    <id>7</id>
+    <name>Идея Банк</name>
+  </bank>
+  <bank>
+    <id>8</id>
+    <name>Белорусский Народный Банк</name>
+  </bank>
+  <bank>
+    <id>9</id>
+    <name>БПС-Сбербанк</name>
+  </bank>
+  <bank>
+    <id>10</id>
+    <name>Белросбанк</name>
+  </bank>
+  <bank>
+    <id>11</id>
+    <name>БСБ Банк (БелСвиссБанк)</name>
+  </bank>
+  <bank>
+    <id>12</id>
+    <name>БТА Банк</name>
+  </bank>
+  <bank>
+    <id>13</id>
+    <name>ЕвроТоргИнвестБанк</name>
+  </bank>
+  <bank>
+    <id>14</id>
+    <name>Международный резервный банк</name>
+  </bank>
+  <bank>
+    <id>15</id>
+    <name>МТБанк</name>
+  </bank>
+  <bank>
+    <id>16</id>
+    <name>Паритетбанк</name>
+  </bank>
+  <bank>
+    <id>17</id>
+    <name>ПриорБанк</name>
+  </bank>
+  <bank>
+    <id>18</id>
+    <name>БеларусБанк</name>
+  </bank>
+  <bank>
+    <id>19</id>
+    <name>СОМБелБанк</name>
+  </bank>
+  <bank>
+    <id>20</id>
+    <name>ТехноБанк</name>
+  </bank>
+  <bank>
+    <id>21</id>
+    <name>Хоум Кредит Банк</name>
+  </bank>
+  <bank>
+    <id>22</id>
+    <name>Цептер Банк</name>
+  </bank>
+  <bank>
+    <id>23</id>
+    <name>Москва-Минск Банк</name>
+  </bank>
+  <bank>
+    <id>24</id>
+    <name>ТрастБанк</name>
+  </bank>
+  <bank>
+    <id>25</id>
+    <name>Банк БелВЭБ</name>
+  </bank>
+  <bank>
+    <id>26</id>
+    <name>ФрансаБанк</name>
+  </bank>
+  <bank>
+    <id>27</id>
+    <name>Дельта Банк</name>
+  </bank>
+  <bank>
+    <id>28</id>
+    <name>РРБ-Банк</name>
+  </bank>
+  <bank>
+    <id>29</id>
+    <name>Кредэксбанк</name>
+  </bank>
+  <bank>
+    <id>30</id>
+    <name>ТК Банк</name>
+  </bank>
+  <bank>
+    <id>31</id>
+    <name>Онербанк</name>
+  </bank>
+  <bank>
+    <id>32</id>
+    <name>Бит-Банк</name>
+  </bank>
+</basnks>
