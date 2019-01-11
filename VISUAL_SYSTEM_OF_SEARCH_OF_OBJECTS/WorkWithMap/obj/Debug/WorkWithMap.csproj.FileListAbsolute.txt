@@ -1,0 +1,45 @@
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\WorkWithMap.dll.config
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\WorkWithMap.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\WorkWithMap.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\CurrencyExchangeDAL.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\GMap.NET.Core.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\CurrencyExchangeDAL.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.csprojResolveAssemblyReference.cache
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\WorkWithMap.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\WorkWithMap.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\WorkWithMap.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\CurrencyExchangeDAL.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.SqlServer.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\GMap.NET.Core.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\GMap.NET.WindowsForms.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\GMap.NET.WindowsPresentation.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\Newtonsoft.Json.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.EF6.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.Linq.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\CurrencyExchangeDAL.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\EntityFramework.SqlServer.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\Newtonsoft.Json.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\bin\Debug\System.Data.SQLite.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.csprojAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.csproj.CopyComplete
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithMap\obj\Debug\WorkWithMap.pdb

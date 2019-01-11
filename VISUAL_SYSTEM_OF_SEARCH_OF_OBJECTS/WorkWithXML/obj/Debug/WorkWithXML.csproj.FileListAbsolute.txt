@@ -1,0 +1,35 @@
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithXML.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithXML.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\CurrencyExchangeDAL.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\CurrencyExchangeDAL.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.csprojResolveAssemblyReference.cache
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithXML.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithXML.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\CurrencyExchangeDAL.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\CurrencyExchangeDAL.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.csprojAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.csproj.CopyComplete
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\obj\Debug\WorkWithXML.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithXML.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.SqlServer.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithMap.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\GMap.NET.WindowsForms.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\GMap.NET.Core.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithMap.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithMap.dll.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.xml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithXML.dll.config
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithMap.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\GMap.NET.Core.dll
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\WorkWithMap.pdb
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.xml
+C:\Users\pautov\Documents\Visual Studio 2015\Projects\VISUAL_SYSTEM_OF_SEARCH_OF_OBJECTS\WorkWithXML\bin\Debug\EntityFramework.SqlServer.xml
