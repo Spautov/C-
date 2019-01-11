@@ -1,0 +1,63 @@
+﻿<Window x:Class="MediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaPlayer"
+        x:Name="WindowMain"
+        mc:Ignorable="d"
+        Title="Player" MinHeight="350" MinWidth="380" Height="366.666" Width="455.641" >
+    <DockPanel LastChildFill="True">
+        <DockPanel LastChildFill="True" DockPanel.Dock="Bottom">
+            <TextBlock x:Name="tbTimeBefor"
+                       DockPanel.Dock="Left"
+                       Margin="5,0"></TextBlock>
+            <Slider 
+                x:Name="sldVidio" PreviewMouseLeftButtonDown="sldVidio_PreviewMouseLeftButtonDown" PreviewMouseLeftButtonUp="sldVidio_PreviewMouseLeftButtonUp"/>
+        </DockPanel>
+        <DockPanel DockPanel.Dock="Bottom" LastChildFill="True">
+            <UniformGrid Rows="1" Columns="4" HorizontalAlignment ="Center" DockPanel.Dock="Left">
+                <Button x:Name="btnOpen" Margin="5" Click="btnOpen_Click">Open</Button>
+                <Button x:Name="btnPlay" Margin="5" Padding="20,0" Click="btnPlay_Click">Play</Button>
+                <Button x:Name="btnPause" Margin="5" Click="btnPause_Click">Pause</Button>
+                <Button x:Name="btnStop" Margin="5" Click="btnStop_Click">Stop</Button>
+            </UniformGrid>
+            <Slider 
+                x:Name="sldVolume" 
+                Maximum="1" 
+                Minimum="0" 
+                Margin="5" 
+                PreviewMouseLeftButtonUp="sldVolume_PreviewMouseLeftButtonUp"
+                ToolTip="Звук"></Slider>
+        </DockPanel>
+        <Grid x:Name="grdMedia">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="0.01*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            
+            <MediaElement 
+                Grid.Row="0"
+                Grid.Column="0"
+                x:Name="melScreen"
+                LoadedBehavior ="Manual"
+                MediaEnded="melScreen_MediaEnded" 
+                MediaOpened="melScreen_MediaOpened" MediaFailed="melScreen_MediaFailed">
+            </MediaElement>
+            <Expander
+                ExpandDirection ="Left"
+                Grid.Row="0"
+                Grid.Column="1"
+                x:Name="expPlayList" Expanded="expPlayList_Expanded" Collapsed="expPlayList_Collapsed" MouseMove="expPlayList_MouseMove" MouseLeave="expPlayList_MouseLeave">
+                <ListBox x:Name="stpExpPlayList" SelectionChanged="stpExpPlayList_SelectionChanged">
+                    
+                </ListBox>
+            </Expander>
+
+
+        </Grid>
+    </DockPanel>
+</Window>

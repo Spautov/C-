@@ -1,0 +1,46 @@
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\bin\Debug\MediaPlayer.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\bin\Debug\MediaPlayer.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MainWindow.g.cs
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\App.g.cs
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MainWindow.baml
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.exe
+c:\users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\bin\Debug\MediaPlayer.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\bin\Debug\MediaPlayer.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MainWindow.g.cs
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\App.g.cs
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MainWindow.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.exe
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.pdb
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\bin\Debug\WPFToolkit.dll
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\MediaPlayer.csproj.CopyComplete
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\App.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\BureauBlack.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\BureauBlue.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\ExpressionDark.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\ExpressionLight.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\ShinyBlue.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\ShinyRed.baml
+d:\Сергей\Study\ПРОГРАММИРОВАНИЕ\C#\HW_WPF_2\MediaPlayer\obj\Debug\Themes\WhistlerBlue.baml
