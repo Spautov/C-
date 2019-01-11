@@ -1,0 +1,124 @@
+﻿<RibbonWindow x:Class="TaskManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManager"
+        xmlns:proc ="clr-namespace:TaskManager.Repository"
+        xmlns:convert ="clr-namespace:TaskManager.Converters"   
+        mc:Ignorable="d"
+        Title="Диспетчер процессов" Height="650" Width="800" Icon="datamonitor_taskmanager_monitordedatos_6939.ico">
+    <RibbonWindow.Resources>
+        <proc:ProcessRepository x:Key="processis"/>
+        <convert:ProcessToStringConvertor x:Key="processConvertToString"/>
+        <convert:WorkingSet64ToStringConvertor x:Key="setConvertToString"/>
+        <convert:ProcessToLabelConvertor x:Key="processToLabelConvertor"/>
+    </RibbonWindow.Resources>
+    <DockPanel LastChildFill="True">
+        <Ribbon DockPanel.Dock="Top">
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu>
+                    <RibbonApplicationMenuItem  x:Name="btnAppExit"
+                                                Header="Выход"
+                                                ImageSource="Images\exit.png"
+                                                Click="RibbonApplicationMenuItem_Click">
+                        
+                    </RibbonApplicationMenuItem>
+                    
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+            <RibbonTab Header="Главная">
+                <RibbonGroup Header="Запуск процесса">
+                    <RibbonButton Label="Запустить новый процесс"
+                              LargeImageSource="Images\Play.png" Click="RibbonButton_Click"/>
+                    
+                </RibbonGroup>
+                <RibbonGroup Header="Поиск процесса">
+                    <RibbonTextBox x:Name="tbMainFindProcess" MouseEnter="tbMainFindProcess_MouseUp"
+                                   />
+                    <RibbonButton x:Name="btnMainFindProcess"
+                                Label="Найти"
+                                LargeImageSource="Images\search.png" Click="btnMainFindProcess_Click"/>
+                    <RibbonButton x:Name="btnMainRefresh"
+                                  LargeImageSource="Images\refresh_round.png"
+                                  Label="Обновить" Click="btnMainRefresh_Click"
+                                   ></RibbonButton>
+                </RibbonGroup>
+                
+            </RibbonTab>
+            <RibbonTab Header="Вид">
+                <RibbonGroup Header="Оформление">
+                    <RibbonButton  x:Name="btnViewGrey"
+                        LargeImageSource="Images\grey.png"
+                                  Label="Серый" Click="BtnViewGrey_Click"></RibbonButton>
+                    
+                    <RibbonButton x:Name="btnViewRed"
+                                    LargeImageSource="Images\red.png"
+                                  Label="Красный" Click="BtnViewRed_Click"></RibbonButton>
+                    <RibbonButton x:Name="btnViewBlue" 
+                        LargeImageSource="Images\blue.png"
+                                  Label="Синий" Click="BtnViewBlue_Click"></RibbonButton>
+                </RibbonGroup>
+               
+            </RibbonTab>
+            
+        </Ribbon>
+       
+        <StackPanel DockPanel.Dock="Bottom"
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Center"
+                    >
+            <Label 
+                Foreground="Black"
+                VerticalAlignment="Center"
+                   Margin="10"
+                   Content="{Binding ElementName=dgProcesses, Path=SelectedItem, Converter={StaticResource processToLabelConvertor}}"></Label>
+            <Button Padding="15" 
+                    Margin="0,5,0,5"
+                    Click="Button_Click">Завершить процесс</Button>
+        </StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <DataGrid 
+                IsReadOnly ="True"
+                Grid.Column="0"
+                x:Name="dgProcesses" 
+                AutoGenerateColumns="False"
+                ItemsSource="{Binding Source={StaticResource processis}, Path =Processes}" MouseUp="dgProcesses_MouseUp">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id"
+                                    Width="0.2*"
+                                    Binding="{Binding Id}">
+                        <DataGridTextColumn.CellStyle>
+                            <Style>
+                                <Setter Property="FrameworkElement.HorizontalAlignment" Value="Right"/>
+                            </Style>
+                        </DataGridTextColumn.CellStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Имя процесса"
+                                    Width="*"
+                                    Binding="{Binding ProcessName}">
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Объем памяти"
+                                    Width="0.4*"
+                                    Binding="{Binding WorkingSet64, Converter={StaticResource setConvertToString}}">
+                        <DataGridTextColumn.CellStyle>
+                            <Style>
+                                <Setter Property="FrameworkElement.HorizontalAlignment" Value="Right"/>
+                            </Style>
+                        </DataGridTextColumn.CellStyle>
+                    </DataGridTextColumn>
+                   
+                </DataGrid.Columns>
+
+            </DataGrid>
+            <TextBlock  
+                Padding="5,0,0,0"
+                Grid.Column="1"
+                       Text="{Binding ElementName=dgProcesses, Path=SelectedItem, Converter={StaticResource processConvertToString}}"></TextBlock>
+        </Grid>
+    </DockPanel>
+</RibbonWindow>
