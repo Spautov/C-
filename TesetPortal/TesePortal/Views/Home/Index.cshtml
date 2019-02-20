@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TesePortal.Models.Request.WorkItem>
+
+@{
+    ViewBag.Title = "Главная";
+}
+
+
+<h2>Для подачи заявки выберите рабочий центр</h2>
+<ol>
+    @foreach (var wi in Model)
+    {
+        <li><a href="/Home/Operator/@wi.Id">@wi.Name</a></li>
+    }
+</ol>
+

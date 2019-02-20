@@ -1,0 +1,148 @@
+﻿@model IEnumerable<TesePortal.Models.Request.Demand>
+
+
+@helper Status(int st)
+{
+    if (st == 0)
+    {
+        <p>новое</p>
+    }
+    else if (st == 1)
+    {
+        <p>выполняется</p>
+    }
+    else
+    {
+        <p>неизвестен</p>
+    }
+}
+
+@helper Critical(bool isCr)
+{
+
+    if (isCr)
+    {
+        <p>срочное выполнение</p>
+    }
+    else
+    {
+        <p></p>
+    }
+
+}
+@helper FindUser(string id)
+{
+    foreach (Microsoft.AspNet.Identity.EntityFramework.IdentityUser use in @ViewBag.Users)
+    {
+        if (use.Id == id)
+        {
+            <p>@use.UserName</p>
+            break;
+        }
+    }
+}
+
+@helper WorkItem(int Id)
+{
+    foreach (TesePortal.Models.Request.WorkItem wrkitm in @ViewBag.WorkItems)
+    {
+        if (wrkitm.Id == Id)
+        {
+            <p>@wrkitm.Name</p>
+            break;
+        }
+    }
+
+}
+
+@helper WorkItemNode(int Id)
+{
+    foreach (TesePortal.Models.Request.WorkItemNode wrkitm in @ViewBag.WorkItemNodes)
+    {
+        if (wrkitm.Id == Id)
+        {
+            <p>@wrkitm.Name</p>
+            break;
+        }
+    }
+
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Номер задания")
+        </th>
+        <th>
+            @Html.DisplayName("Оператор")
+        </th>
+
+        <th>
+            @Html.DisplayName("Рабочая станция")
+        </th>
+        <th>
+            @Html.DisplayName("Узел")
+        </th>
+
+        <th>
+            @Html.DisplayName("Комментарий оператора")
+        </th>
+        <th>
+            @Html.DisplayName("Срочно")
+        </th>
+
+        <th>
+            @Html.DisplayName("Статус выполнения")
+        </th>
+        <th>
+            @Html.DisplayName("Дата подачи заявки")
+        </th>
+        <th>
+            @Html.DisplayName("Дата окончания ремонта")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @FindUser(item.OperatorId)
+            </td>
+
+            <td>
+                @WorkItem(item.WorkItemId)
+            </td>
+            <td>
+                @WorkItemNode(item.WorkItemNodeId)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.CommentOfOperator)
+            </td>
+            <td>
+                @Critical(item.IsCritical)
+            </td>
+
+            <td>
+                @Status(item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

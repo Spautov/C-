@@ -1,0 +1,150 @@
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\ApplicationInsights.config
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\csc.exe
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\vbc.exe
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\VBCSCompiler.exe
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\TesePortal.dll.config
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\TesePortal.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\TesePortal.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Antlr3.Runtime.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\EntityFramework.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\EntityFramework.SqlServer.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.Web.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.ApplicationInsights.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Security.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Newtonsoft.Json.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Owin.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Helpers.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Mvc.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Optimization.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Razor.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.WebPages.Deployment.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.WebPages.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.WebPages.Razor.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\WebGrease.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\EntityFramework.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\EntityFramework.SqlServer.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.Web.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.ApplicationInsights.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Security.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Helpers.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Mvc.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Optimization.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.Razor.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.WebPages.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.WebPages.Deployment.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\System.Web.WebPages.Razor.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Antlr3.Runtime.pdb
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\bin\Newtonsoft.Json.xml
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\obj\Debug\TesePortal.dll
+c:\users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\obj\Debug\TesePortal.pdb
+e:\Сергей\Test\TesePortal\TesePortal\bin\ApplicationInsights.config
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\csc.exe
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\System.Collections.Immutable.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\System.Reflection.Metadata.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\vbc.exe
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\VBCSCompiler.exe
+e:\Сергей\Test\TesePortal\TesePortal\bin\roslyn\VBCSCompiler.exe.config
+e:\Сергей\Test\TesePortal\TesePortal\bin\TesePortal.dll.config
+e:\Сергей\Test\TesePortal\TesePortal\bin\TesePortal.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\TesePortal.pdb
+e:\Сергей\Test\TesePortal\TesePortal\bin\Antlr3.Runtime.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\EntityFramework.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\EntityFramework.SqlServer.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.Agent.Intercept.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.DependencyCollector.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.PerfCounterCollector.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.Web.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.WindowsServer.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.ApplicationInsights.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Core.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Owin.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Security.Cookies.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Security.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Security.OAuth.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Web.Infrastructure.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Newtonsoft.Json.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\Owin.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Helpers.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Mvc.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Optimization.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Razor.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.WebPages.Deployment.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.WebPages.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.WebPages.Razor.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\WebGrease.dll
+e:\Сергей\Test\TesePortal\TesePortal\bin\EntityFramework.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\EntityFramework.SqlServer.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.DependencyCollector.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.Web.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AI.WindowsServer.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.ApplicationInsights.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Core.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.AspNet.Identity.Owin.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Security.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Security.Cookies.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Microsoft.Owin.Security.OAuth.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Helpers.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Mvc.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Optimization.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.Razor.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.WebPages.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.WebPages.Deployment.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\System.Web.WebPages.Razor.xml
+e:\Сергей\Test\TesePortal\TesePortal\bin\Antlr3.Runtime.pdb
+e:\Сергей\Test\TesePortal\TesePortal\bin\Newtonsoft.Json.xml
+e:\Сергей\Test\TesePortal\TesePortal\obj\Debug\TesePortal.csproj.CoreCompileInputs.cache
+e:\Сергей\Test\TesePortal\TesePortal\obj\Debug\TesePortal.csproj.CopyComplete
+e:\Сергей\Test\TesePortal\TesePortal\obj\Debug\TesePortal.dll
+e:\Сергей\Test\TesePortal\TesePortal\obj\Debug\TesePortal.pdb
+C:\Users\pautov\documents\visual studio 2015\Projects\TesePortal\TesePortal\obj\Debug\TesePortal.csprojResolveAssemblyReference.cache
+e:\Сергей\Test\TesePortal\TesePortal\obj\Debug\TesePortal.csprojAssemblyReference.cache
