@@ -1,0 +1,11 @@
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTask\DALPanels\bin\Release\DALPanels.dll
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTask\DALPanels\bin\Release\DALPanels.pdb
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTask\DALPanels\obj\Release\DALPanels.csprojAssemblyReference.cache
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTask\DALPanels\obj\Release\DALPanels.csproj.CoreCompileInputs.cache
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTask\DALPanels\obj\Release\DALPanels.dll
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTask\DALPanels\obj\Release\DALPanels.pdb
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTaskBreakTheCode\DALPanels\bin\Release\DALPanels.dll
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTaskBreakTheCode\DALPanels\bin\Release\DALPanels.pdb
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTaskBreakTheCode\DALPanels\obj\Release\DALPanels.csproj.CoreCompileInputs.cache
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTaskBreakTheCode\DALPanels\obj\Release\DALPanels.dll
+e:\Сергей\Тестовые задания\BreakTheCode\Рабочий вариант\TestTaskBreakTheCode\DALPanels\obj\Release\DALPanels.pdb
